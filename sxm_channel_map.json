@@ -441,18 +441,18 @@
       "Morgan Wallen Radio"
     ]
   },
-  "9e545d10-7c21-9707-1d34-3d503b7365bc": {
-    "xmltvId": "BluegrassJunction.sxm",
-    "displayName": "Radio: Bluegrass Junction",
+  "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c": {
+    "xmltvId": "TheMessage.sxm",
+    "displayName": "Radio: The Message",
     "aliases": [
-      "Bluegrass Junction"
+      "The Message"
     ]
   },
-  "c46c9810-6274-a715-a8b9-de9d4ac33873": {
-    "xmltvId": "SymphonyHall.sxm",
-    "displayName": "Radio: Symphony Hall",
+  "e4b5402c-c608-db84-ad15-4bc8e2cdccce": {
+    "xmltvId": "Watercolors.sxm",
+    "displayName": "Radio: Watercolors",
     "aliases": [
-      "Symphony Hall"
+      "Watercolors"
     ]
   },
   "e6333906-2e89-6c07-59d6-36d09248b8dc": {
@@ -462,11 +462,11 @@
       "Real Jazz"
     ]
   },
-  "e4b5402c-c608-db84-ad15-4bc8e2cdccce": {
-    "xmltvId": "Watercolors.sxm",
-    "displayName": "Radio: Watercolors",
+  "e4fe4bca-1af8-bf9e-c20b-813f204aa18e": {
+    "xmltvId": "KirkFranklinsPraise.sxm",
+    "displayName": "Radio: Kirk Franklin's Praise",
     "aliases": [
-      "Watercolors"
+      "Kirk Franklin's Praise"
     ]
   },
   "adc27a20-6fc4-7269-5ca6-4a492f7dfa55": {
@@ -525,18 +525,18 @@
       "Elvis Radio"
     ]
   },
-  "e4fe4bca-1af8-bf9e-c20b-813f204aa18e": {
-    "xmltvId": "KirkFranklinsPraise.sxm",
-    "displayName": "Radio: Kirk Franklin's Praise",
+  "9e545d10-7c21-9707-1d34-3d503b7365bc": {
+    "xmltvId": "BluegrassJunction.sxm",
+    "displayName": "Radio: Bluegrass Junction",
     "aliases": [
-      "Kirk Franklin's Praise"
+      "Bluegrass Junction"
     ]
   },
-  "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c": {
-    "xmltvId": "TheMessage.sxm",
-    "displayName": "Radio: The Message",
+  "c46c9810-6274-a715-a8b9-de9d4ac33873": {
+    "xmltvId": "SymphonyHall.sxm",
+    "displayName": "Radio: Symphony Hall",
     "aliases": [
-      "The Message"
+      "Symphony Hall"
     ]
   },
   "c5647ffa-5f13-5030-88f6-13ed47df40dc": {
@@ -637,53 +637,53 @@
       "SiriusXM PGA Tour Radio"
     ]
   },
-  "ab0e4302-503b-e1ff-c786-8307a3d36fe0": {
-    "xmltvId": "SiriusXM145.sxm",
-    "displayName": "Radio: SiriusXM 145",
+  "96f5d0e4-ebff-564a-6c39-70a4a642e360": {
+    "xmltvId": "NetflixIsAJokeRadio.sxm",
+    "displayName": "Radio: Netflix Is A Joke Radio",
     "aliases": [
-      "SiriusXM 145"
+      "Netflix Is A Joke Radio"
     ]
   },
-  "c5e4d875-9125-07fb-e87f-4edaab052b44": {
-    "xmltvId": "WFANNewYork.sxm",
-    "displayName": "Radio: WFAN New York",
+  "0c8ec1e3-f152-0ea1-3b45-35f7ec816990": {
+    "xmltvId": "ComedyGreats.sxm",
+    "displayName": "Radio: Comedy Greats",
     "aliases": [
-      "WFAN New York"
+      "Comedy Greats"
     ]
   },
-  "9c2a3434-f10b-b354-e7c1-135af9efd879": {
-    "xmltvId": "KSPNLosAngeles.sxm",
-    "displayName": "Radio: KSPN Los Angeles",
+  "771bf1f6-3885-aa77-e98a-51f5dcccbeba": {
+    "xmltvId": "ComedyCentralRadio.sxm",
+    "displayName": "Radio: Comedy Central Radio",
     "aliases": [
-      "KSPN Los Angeles"
+      "Comedy Central Radio"
     ]
   },
-  "abc1fbcc-e8bc-ec50-dd5d-36b084ca54b1": {
-    "xmltvId": "WSCRChicago.sxm",
-    "displayName": "Radio: WSCR Chicago",
+  "ab6a16eb-6e7b-6933-1dd1-8b04fbc922ed": {
+    "xmltvId": "KevinHartsLaughOutLoudRadio.sxm",
+    "displayName": "Radio: Kevin Hart's LOL Radio",
     "aliases": [
-      "WSCR Chicago"
+      "Kevin Hart's LOL Radio"
     ]
   },
-  "6d31b1db-11f5-f6a9-cb60-bef429e89139": {
-    "xmltvId": "WEEIBoston.sxm",
-    "displayName": "Radio: WEEI Boston",
+  "3cebb3a3-6b03-2ad2-e5be-d9f4841249a2": {
+    "xmltvId": "JeffAndLarrysComedyRoundup.sxm",
+    "displayName": "Radio: Comedy Roundup",
     "aliases": [
-      "WEEI Boston"
+      "Comedy Roundup"
     ]
   },
-  "e79128cb-acd1-1ce9-f856-8bd90940b994": {
-    "xmltvId": "WIPPhiladelphia.sxm",
-    "displayName": "Radio: WIP Philadelphia",
+  "d7151f52-694d-64b7-4e31-9b2f4f534454": {
+    "xmltvId": "PureComedy.sxm",
+    "displayName": "Radio: Pure Comedy",
     "aliases": [
-      "WIP Philadelphia"
+      "Pure Comedy"
     ]
   },
-  "157590c1-c759-8277-f057-fc0e2649a5ca": {
-    "xmltvId": "KRLDDallas.sxm",
-    "displayName": "Radio: KRLD Dallas",
+  "8b66f94a-7304-fd83-d442-2153b881c21f": {
+    "xmltvId": "SebastianManiscalcosComedyRadio.sxm",
+    "displayName": "Radio: Sebastian Maniscalco’s Comedy Radio",
     "aliases": [
-      "KRLD Dallas"
+      "Sebastian Maniscalco’s Comedy Radio"
     ]
   },
   "123f7d39-c99f-2f01-7900-0d4b8b010cb7": {
@@ -700,18 +700,11 @@
       "Radio Andy"
     ]
   },
-  "8b66f94a-7304-fd83-d442-2153b881c21f": {
-    "xmltvId": "SebastianManiscalcosComedyRadio.sxm",
-    "displayName": "Radio: Sebastian Maniscalco’s Comedy Radio",
+  "80867fa3-093f-b076-bedc-af8d71cb54ab": {
+    "xmltvId": "FactionTalk.sxm",
+    "displayName": "Radio: Faction Talk",
     "aliases": [
-      "Sebastian Maniscalco’s Comedy Radio"
-    ]
-  },
-  "ab6a16eb-6e7b-6933-1dd1-8b04fbc922ed": {
-    "xmltvId": "KevinHartsLaughOutLoudRadio.sxm",
-    "displayName": "Radio: Kevin Hart's LOL Radio",
-    "aliases": [
-      "Kevin Hart's LOL Radio"
+      "Faction Talk"
     ]
   },
   "dd21ed4a-49e7-ae02-3a61-cd730602a389": {
@@ -721,39 +714,18 @@
       "Conan O'Brien Radio"
     ]
   },
-  "96f5d0e4-ebff-564a-6c39-70a4a642e360": {
-    "xmltvId": "NetflixIsAJokeRadio.sxm",
-    "displayName": "Radio: Netflix Is A Joke Radio",
+  "ab0e4302-503b-e1ff-c786-8307a3d36fe0": {
+    "xmltvId": "SiriusXM145.sxm",
+    "displayName": "Radio: SiriusXM 145",
     "aliases": [
-      "Netflix Is A Joke Radio"
+      "SiriusXM 145"
     ]
   },
-  "3cebb3a3-6b03-2ad2-e5be-d9f4841249a2": {
-    "xmltvId": "JeffAndLarrysComedyRoundup.sxm",
-    "displayName": "Radio: Comedy Roundup",
+  "b603ee62-cf5b-bbb5-1abf-e7169adf25aa": {
+    "xmltvId": "Dateline247.sxm",
+    "displayName": "Radio: Dateline 24/7",
     "aliases": [
-      "Comedy Roundup"
-    ]
-  },
-  "771bf1f6-3885-aa77-e98a-51f5dcccbeba": {
-    "xmltvId": "ComedyCentralRadio.sxm",
-    "displayName": "Radio: Comedy Central Radio",
-    "aliases": [
-      "Comedy Central Radio"
-    ]
-  },
-  "0c8ec1e3-f152-0ea1-3b45-35f7ec816990": {
-    "xmltvId": "ComedyGreats.sxm",
-    "displayName": "Radio: Comedy Greats",
-    "aliases": [
-      "Comedy Greats"
-    ]
-  },
-  "d7151f52-694d-64b7-4e31-9b2f4f534454": {
-    "xmltvId": "PureComedy.sxm",
-    "displayName": "Radio: Pure Comedy",
-    "aliases": [
-      "Pure Comedy"
+      "Dateline 24/7"
     ]
   },
   "2a74320f-938b-8e80-5e7f-5e8e110e1d42": {
@@ -761,6 +733,20 @@
     "displayName": "Radio: TODAY Show Radio",
     "aliases": [
       "TODAY Show Radio"
+    ]
+  },
+  "813d656c-9af5-7f51-bb48-d724327d9289": {
+    "xmltvId": "Stars.sxm",
+    "displayName": "Radio: Stars",
+    "aliases": [
+      "Stars"
+    ]
+  },
+  "97548371-5133-a4c6-373f-801a18dc3237": {
+    "xmltvId": "DoctorRadio.sxm",
+    "displayName": "Radio: Doctor Radio",
+    "aliases": [
+      "Doctor Radio"
     ]
   },
   "fc92713b-2006-4980-ef7c-e70f1da80427": {
@@ -812,18 +798,11 @@
       "MS NOW"
     ]
   },
-  "b603ee62-cf5b-bbb5-1abf-e7169adf25aa": {
-    "xmltvId": "Dateline247.sxm",
-    "displayName": "Radio: Dateline 24/7",
+  "6c3df863-db7b-74c4-49c8-c2b202f3ffdf": {
+    "xmltvId": "PRXRemix.sxm",
+    "displayName": "Radio: PRX Remix",
     "aliases": [
-      "Dateline 24/7"
-    ]
-  },
-  "97548371-5133-a4c6-373f-801a18dc3237": {
-    "xmltvId": "DoctorRadio.sxm",
-    "displayName": "Radio: Doctor Radio",
-    "aliases": [
-      "Doctor Radio"
+      "PRX Remix"
     ]
   },
   "93c1c9bd-3403-392c-9ae7-ae292b8bb052": {
@@ -945,39 +924,46 @@
       "CoComelon & Friends"
     ]
   },
-  "80867fa3-093f-b076-bedc-af8d71cb54ab": {
-    "xmltvId": "FactionTalk.sxm",
-    "displayName": "Radio: Faction Talk",
+  "87dba34f-e68a-f241-bc4d-34647f1a61c9": {
+    "xmltvId": "HolyCultureRadio.sxm",
+    "displayName": "Radio: Holy Culture Radio",
     "aliases": [
-      "Faction Talk"
+      "Holy Culture Radio"
     ]
   },
-  "813d656c-9af5-7f51-bb48-d724327d9289": {
-    "xmltvId": "Stars.sxm",
-    "displayName": "Radio: Stars",
+  "15c78a20-48ff-41f2-aa4e-d0da15455c24": {
+    "xmltvId": "HURVoices.sxm",
+    "displayName": "Radio: HUR Voices",
     "aliases": [
-      "Stars"
+      "HUR Voices"
     ]
   },
-  "ad78ffbd-6cbd-e19e-27c5-043649ef4e8e": {
-    "xmltvId": "SiriusXMComedyClub.sxm",
-    "displayName": "Radio: SiriusXM Comedy Club",
+  "8261e004-8a69-47cd-317a-bcf1fbb05bca": {
+    "xmltvId": "HBCU.sxm",
+    "displayName": "Radio: HBCU",
     "aliases": [
-      "SiriusXM Comedy Club"
+      "HBCU"
     ]
   },
-  "6ce53b6e-fef9-ab81-e5e3-1e100e8a5e84": {
-    "xmltvId": "RadioClassics.sxm",
-    "displayName": "Radio: Radio Classics",
+  "ffbdc12f-4ed9-0896-af68-a1353b5f0b7b": {
+    "xmltvId": "BYUradio.sxm",
+    "displayName": "Radio: BYUradio",
     "aliases": [
-      "Radio Classics"
+      "BYUradio"
     ]
   },
-  "6c3df863-db7b-74c4-49c8-c2b202f3ffdf": {
-    "xmltvId": "PRXRemix.sxm",
-    "displayName": "Radio: PRX Remix",
+  "bf819115-9d0d-c4fe-3f2b-bec9cb58ee9e": {
+    "xmltvId": "KoreaToday.sxm",
+    "displayName": "Radio: Korea Today",
     "aliases": [
-      "PRX Remix"
+      "Korea Today"
+    ]
+  },
+  "51c76a31-795d-1cac-bc97-bf11b9fb72b4": {
+    "xmltvId": "SLAMRadio.sxm",
+    "displayName": "Radio: SLAM Radio",
+    "aliases": [
+      "SLAM Radio"
     ]
   },
   "01305215-db22-2cdc-7eaf-ca12c60a2643": {
@@ -994,18 +980,11 @@
       "RURAL Radio"
     ]
   },
-  "fdfed5ae-6fb9-338f-342b-e8a922970123": {
-    "xmltvId": "SiriusXM144.sxm",
-    "displayName": "Radio: SiriusXM 144",
+  "6ce53b6e-fef9-ab81-e5e3-1e100e8a5e84": {
+    "xmltvId": "RadioClassics.sxm",
+    "displayName": "Radio: Radio Classics",
     "aliases": [
-      "SiriusXM 144"
-    ]
-  },
-  "b9ee6786-80aa-51c7-1449-64a1484d7cc7": {
-    "xmltvId": "InfluenceFranco.sxm",
-    "displayName": "Radio: Influence Franco",
-    "aliases": [
-      "Influence Franco"
+      "Radio Classics"
     ]
   },
   "ab3ef743-4a2d-f67b-ea13-283843b3cfb5": {
@@ -1057,242 +1036,11 @@
       "Latin Vault"
     ]
   },
-  "01675bf6-1d35-d05f-2e73-0a750694aa6d": {
-    "xmltvId": "MixtapeNorth.sxm",
-    "displayName": "Radio: Mixtape: North",
-    "aliases": [
-      "Mixtape: North"
-    ]
-  },
-  "d0775651-a522-5ca2-7be7-20f97f37bbfb": {
-    "xmltvId": "TheVerge.sxm",
-    "displayName": "Radio: The Verge",
-    "aliases": [
-      "The Verge"
-    ]
-  },
-  "60035cea-1181-5b91-4c33-ba63663a37e2": {
-    "xmltvId": "TopoftheCountryRadio.sxm",
-    "displayName": "Radio: Top of the Country Radio",
-    "aliases": [
-      "Top of the Country Radio"
-    ]
-  },
   "098425c8-142d-9ee9-3d45-bc5f7b284bd4": {
     "xmltvId": "WWERadio.sxm",
     "displayName": "Radio: WWE Radio",
     "aliases": [
       "WWE Radio"
-    ]
-  },
-  "5f35c1e2-2fcd-8bb9-2770-02dacce34c99": {
-    "xmltvId": "AttitudeFranco.sxm",
-    "displayName": "Radio: Attitude Franco",
-    "aliases": [
-      "Attitude Franco"
-    ]
-  },
-  "fdb3a2d1-dc33-16c6-4ccf-86d522b21f3e": {
-    "xmltvId": "RacinesMusicales.sxm",
-    "displayName": "Radio: Racines Musicales",
-    "aliases": [
-      "Racines Musicales"
-    ]
-  },
-  "cfa7a7a4-b998-2d96-aba5-c5e988d4726d": {
-    "xmltvId": "TheIndigiverse.sxm",
-    "displayName": "Radio: The Indigiverse",
-    "aliases": [
-      "The Indigiverse"
-    ]
-  },
-  "54f4144b-13f6-4e4c-3d4b-3d9f6f766e27": {
-    "xmltvId": "CanadaTalks.sxm",
-    "displayName": "Radio: Canada Talks",
-    "aliases": [
-      "Canada Talks"
-    ]
-  },
-  "e2cc6149-5716-4324-2537-4cce09d9b09c": {
-    "xmltvId": "CBCRadioOne.sxm",
-    "displayName": "Radio: CBC Radio One",
-    "aliases": [
-      "CBC Radio One"
-    ]
-  },
-  "32c45f24-14ee-6f33-e79d-d859ff1627a4": {
-    "xmltvId": "ICIPremiere.sxm",
-    "displayName": "Radio: ICI Première",
-    "aliases": [
-      "ICI Première"
-    ]
-  },
-  "bf819115-9d0d-c4fe-3f2b-bec9cb58ee9e": {
-    "xmltvId": "KoreaToday.sxm",
-    "displayName": "Radio: Korea Today",
-    "aliases": [
-      "Korea Today"
-    ]
-  },
-  "15c78a20-48ff-41f2-aa4e-d0da15455c24": {
-    "xmltvId": "HURVoices.sxm",
-    "displayName": "Radio: HUR Voices",
-    "aliases": [
-      "HUR Voices"
-    ]
-  },
-  "8261e004-8a69-47cd-317a-bcf1fbb05bca": {
-    "xmltvId": "HBCU.sxm",
-    "displayName": "Radio: HBCU",
-    "aliases": [
-      "HBCU"
-    ]
-  },
-  "ffbdc12f-4ed9-0896-af68-a1353b5f0b7b": {
-    "xmltvId": "BYUradio.sxm",
-    "displayName": "Radio: BYUradio",
-    "aliases": [
-      "BYUradio"
-    ]
-  },
-  "51c76a31-795d-1cac-bc97-bf11b9fb72b4": {
-    "xmltvId": "SLAMRadio.sxm",
-    "displayName": "Radio: SLAM Radio",
-    "aliases": [
-      "SLAM Radio"
-    ]
-  },
-  "87dba34f-e68a-f241-bc4d-34647f1a61c9": {
-    "xmltvId": "HolyCultureRadio.sxm",
-    "displayName": "Radio: Holy Culture Radio",
-    "aliases": [
-      "Holy Culture Radio"
-    ]
-  },
-  "bb522a12-4956-c4bf-59b6-a4ba669a5916": {
-    "xmltvId": "KDKAPittsburgh.sxm",
-    "displayName": "Radio: KDKA Pittsburgh",
-    "aliases": [
-      "KDKA Pittsburgh"
-    ]
-  },
-  "e2ba824b-8743-57a3-99bf-f60bea95965a": {
-    "xmltvId": "WXYTDetroit.sxm",
-    "displayName": "Radio: WXYT Detroit",
-    "aliases": [
-      "WXYT Detroit"
-    ]
-  },
-  "1fc85074-193d-f14e-469a-c153961541d3": {
-    "xmltvId": "KGMZSanFrancisco.sxm",
-    "displayName": "Radio: KGMZ San Francisco",
-    "aliases": [
-      "KGMZ San Francisco"
-    ]
-  },
-  "38057f8d-509a-17ba-8e30-f6f3a84cc67b": {
-    "xmltvId": "WKRKCleveland.sxm",
-    "displayName": "Radio: WKRK Cleveland",
-    "aliases": [
-      "WKRK Cleveland"
-    ]
-  },
-  "00b966e9-b91b-addf-eaaa-76ef4d2e0a7e": {
-    "xmltvId": "KNXLosAngeles.sxm",
-    "displayName": "Radio: KNX Los Angeles",
-    "aliases": [
-      "KNX Los Angeles"
-    ]
-  },
-  "41ca3bfc-3946-a9e7-982c-d1b1660c8380": {
-    "xmltvId": "WGRBuffalo.sxm",
-    "displayName": "Radio: WGR Buffalo",
-    "aliases": [
-      "WGR Buffalo"
-    ]
-  },
-  "80b89bc9-2770-0fef-1079-7afbaf259d79": {
-    "xmltvId": "WZGCAtlanta.sxm",
-    "displayName": "Radio: WZGC Atlanta",
-    "aliases": [
-      "WZGC Atlanta"
-    ]
-  },
-  "b2e5e9b8-0235-4020-cccf-996d6d72696b": {
-    "xmltvId": "WJZBaltimore.sxm",
-    "displayName": "Radio: WJZ Baltimore",
-    "aliases": [
-      "WJZ Baltimore"
-    ]
-  },
-  "4e633c2d-37f6-8d34-0116-e93579fca392": {
-    "xmltvId": "KILTHouston.sxm",
-    "displayName": "Radio: KILT Houston",
-    "aliases": [
-      "KILT Houston"
-    ]
-  },
-  "f7de64fa-bd6c-46c5-c54a-254ef2343319": {
-    "xmltvId": "KFNZKansasCity.sxm",
-    "displayName": "Radio: KFNZ Kansas City",
-    "aliases": [
-      "KFNZ Kansas City"
-    ]
-  },
-  "42453ab1-a303-1d93-9530-1301feb4fb75": {
-    "xmltvId": "WMFSMemphis.sxm",
-    "displayName": "Radio: WMFS Memphis",
-    "aliases": [
-      "WMFS Memphis"
-    ]
-  },
-  "61042da7-52dd-d4d0-4c63-199731faccec": {
-    "xmltvId": "WQAMMiami.sxm",
-    "displayName": "Radio: WQAM Miami",
-    "aliases": [
-      "WQAM Miami"
-    ]
-  },
-  "4343cd94-95ab-87b8-a237-667d8ef6f3c9": {
-    "xmltvId": "WSSPMilwaukee.sxm",
-    "displayName": "Radio: WSSP Milwaukee",
-    "aliases": [
-      "WSSP Milwaukee"
-    ]
-  },
-  "ab13e6e2-a08c-4877-4134-322ca5eba7a3": {
-    "xmltvId": "KRSKPortland.sxm",
-    "displayName": "Radio: KRSK Portland",
-    "aliases": [
-      "KRSK Portland"
-    ]
-  },
-  "78a02a27-2c20-ded8-601f-8c4257c7e2b8": {
-    "xmltvId": "KIFMSacramento.sxm",
-    "displayName": "Radio: KIFM Sacramento",
-    "aliases": [
-      "KIFM Sacramento"
-    ]
-  },
-  "ea654aba-136a-58d5-553b-f4a8bf46597d": {
-    "xmltvId": "KWFNSanDiego.sxm",
-    "displayName": "Radio: KWFN San Diego",
-    "aliases": [
-      "KWFN San Diego"
-    ]
-  },
-  "fcd95f42-4c13-9b10-02f7-b0fa883e29b6": {
-    "xmltvId": "WTEMWashingtonDC.sxm",
-    "displayName": "Radio: WTEM Washington DC",
-    "aliases": [
-      "WTEM Washington DC"
-    ]
-  },
-  "cb9b3a89-46d7-79ec-4406-b4eb5314cc35": {
-    "xmltvId": "WJFKWashingtonDC.sxm",
-    "displayName": "Radio: WJFK Washington DC",
-    "aliases": [
-      "WJFK Washington DC"
     ]
   },
   "2f7441a4-0d18-43ff-a574-e98217c28f4a": {
@@ -1309,11 +1057,67 @@
       "VSiN"
     ]
   },
-  "047ca775-d9c4-ef78-2cfa-185f407d8233": {
-    "xmltvId": "SiriusXMINDYCARNation.sxm",
-    "displayName": "Radio: SiriusXM INDYCAR Nation",
+  "5f35c1e2-2fcd-8bb9-2770-02dacce34c99": {
+    "xmltvId": "AttitudeFranco.sxm",
+    "displayName": "Radio: Attitude Franco",
     "aliases": [
-      "SiriusXM INDYCAR Nation"
+      "Attitude Franco"
+    ]
+  },
+  "01675bf6-1d35-d05f-2e73-0a750694aa6d": {
+    "xmltvId": "MixtapeNorth.sxm",
+    "displayName": "Radio: Mixtape: North",
+    "aliases": [
+      "Mixtape: North"
+    ]
+  },
+  "cfa7a7a4-b998-2d96-aba5-c5e988d4726d": {
+    "xmltvId": "TheIndigiverse.sxm",
+    "displayName": "Radio: The Indigiverse",
+    "aliases": [
+      "The Indigiverse"
+    ]
+  },
+  "fdb3a2d1-dc33-16c6-4ccf-86d522b21f3e": {
+    "xmltvId": "RacinesMusicales.sxm",
+    "displayName": "Radio: Racines Musicales",
+    "aliases": [
+      "Racines Musicales"
+    ]
+  },
+  "54f4144b-13f6-4e4c-3d4b-3d9f6f766e27": {
+    "xmltvId": "CanadaTalks.sxm",
+    "displayName": "Radio: Canada Talks",
+    "aliases": [
+      "Canada Talks"
+    ]
+  },
+  "ad78ffbd-6cbd-e19e-27c5-043649ef4e8e": {
+    "xmltvId": "SiriusXMComedyClub.sxm",
+    "displayName": "Radio: SiriusXM Comedy Club",
+    "aliases": [
+      "SiriusXM Comedy Club"
+    ]
+  },
+  "e2cc6149-5716-4324-2537-4cce09d9b09c": {
+    "xmltvId": "CBCRadioOne.sxm",
+    "displayName": "Radio: CBC Radio One",
+    "aliases": [
+      "CBC Radio One"
+    ]
+  },
+  "32c45f24-14ee-6f33-e79d-d859ff1627a4": {
+    "xmltvId": "ICIPremiere.sxm",
+    "displayName": "Radio: ICI Première",
+    "aliases": [
+      "ICI Première"
+    ]
+  },
+  "60035cea-1181-5b91-4c33-ba63663a37e2": {
+    "xmltvId": "TopoftheCountryRadio.sxm",
+    "displayName": "Radio: Top of the Country Radio",
+    "aliases": [
+      "Top of the Country Radio"
     ]
   },
   "270b52d0-fde5-2372-6e48-e890fbac3d14": {
@@ -1323,39 +1127,25 @@
       "SiriusXM Sports Schedule"
     ]
   },
-  "454db282-082e-b9a0-d099-89afbf335688": {
-    "xmltvId": "SiriusXMSECRadio.sxm",
-    "displayName": "Radio: SiriusXM SEC Radio",
+  "d0775651-a522-5ca2-7be7-20f97f37bbfb": {
+    "xmltvId": "TheVerge.sxm",
+    "displayName": "Radio: The Verge",
     "aliases": [
-      "SiriusXM SEC Radio"
+      "The Verge"
     ]
   },
-  "a1aed141-90d4-4f65-4c58-eb0d99d8bcce": {
-    "xmltvId": "SiriusXMBigTenRadio.sxm",
-    "displayName": "Radio: SiriusXM Big Ten Radio",
+  "b9ee6786-80aa-51c7-1449-64a1484d7cc7": {
+    "xmltvId": "InfluenceFranco.sxm",
+    "displayName": "Radio: Influence Franco",
     "aliases": [
-      "SiriusXM Big Ten Radio"
+      "Influence Franco"
     ]
   },
-  "f5701423-11a8-9ee3-e9f9-11142108ae31": {
-    "xmltvId": "SiriusXMACCRadio.sxm",
-    "displayName": "Radio: SiriusXM ACC Radio",
+  "047ca775-d9c4-ef78-2cfa-185f407d8233": {
+    "xmltvId": "SiriusXMINDYCARNation.sxm",
+    "displayName": "Radio: SiriusXM INDYCAR Nation",
     "aliases": [
-      "SiriusXM ACC Radio"
-    ]
-  },
-  "4a4c6c22-787c-90f5-5c4b-bd635d3972b9": {
-    "xmltvId": "ESPNPodcasts.sxm",
-    "displayName": "Radio: ESPN Podcasts",
-    "aliases": [
-      "ESPN Podcasts"
-    ]
-  },
-  "7c987478-2f68-d267-acc6-56497c448256": {
-    "xmltvId": "7c9874782f68d267acc656497c448256.sxm",
-    "displayName": "Radio: Westwood One Sports",
-    "aliases": [
-      "Westwood One Sports"
+      "SiriusXM INDYCAR Nation"
     ]
   },
   "b8c4de96-afd9-85ee-7e5f-95c2e380ab65": {
@@ -1475,6 +1265,41 @@
     "displayName": "Radio: Grown Folk JAMZ",
     "aliases": [
       "Grown Folk JAMZ"
+    ]
+  },
+  "4a4c6c22-787c-90f5-5c4b-bd635d3972b9": {
+    "xmltvId": "ESPNPodcasts.sxm",
+    "displayName": "Radio: ESPN Podcasts",
+    "aliases": [
+      "ESPN Podcasts"
+    ]
+  },
+  "f5701423-11a8-9ee3-e9f9-11142108ae31": {
+    "xmltvId": "SiriusXMACCRadio.sxm",
+    "displayName": "Radio: SiriusXM ACC Radio",
+    "aliases": [
+      "SiriusXM ACC Radio"
+    ]
+  },
+  "a1aed141-90d4-4f65-4c58-eb0d99d8bcce": {
+    "xmltvId": "SiriusXMBigTenRadio.sxm",
+    "displayName": "Radio: SiriusXM Big Ten Radio",
+    "aliases": [
+      "SiriusXM Big Ten Radio"
+    ]
+  },
+  "454db282-082e-b9a0-d099-89afbf335688": {
+    "xmltvId": "SiriusXMSECRadio.sxm",
+    "displayName": "Radio: SiriusXM SEC Radio",
+    "aliases": [
+      "SiriusXM SEC Radio"
+    ]
+  },
+  "7c987478-2f68-d267-acc6-56497c448256": {
+    "xmltvId": "WestwoodOneSports.sxm",
+    "displayName": "Radio: Westwood One Sports",
+    "aliases": [
+      "Westwood One Sports"
     ]
   },
   "09d1edf4-3e54-59e1-3fa6-e68233c07b17": {
@@ -1891,7 +1716,7 @@
     ]
   },
   "50b0c84a-9fa5-0f67-2e7b-85802d9f8a3a": {
-    "xmltvId": "50b0c84a9fa50f672e7b85802d9f8a3a.sxm",
+    "xmltvId": "ComedyinFull.sxm",
     "displayName": "Radio: Comedy in Full",
     "aliases": [
       "Comedy in Full"
@@ -2870,25 +2695,39 @@
       "Winnipeg Jets"
     ]
   },
-  "8c9dc9b4-cd99-0eed-46e3-607caa75296c": {
-    "xmltvId": "SEC952.sxm",
-    "displayName": "Radio: SEC 952",
+  "c4212ffd-b8ea-e00b-abb7-7a78efd0e0a4": {
+    "xmltvId": "Big12961.sxm",
+    "displayName": "Radio: Big 12 961",
     "aliases": [
-      "SEC 952"
+      "Big 12 961"
     ]
   },
-  "d93c13f8-02fc-93ee-04b7-de929ff2d73f": {
-    "xmltvId": "SEC953.sxm",
-    "displayName": "Radio: SEC 953",
+  "6c9062f6-d579-ca09-f6ac-c884e8c5e9b9": {
+    "xmltvId": "Big12962.sxm",
+    "displayName": "Radio: Big 12 962",
     "aliases": [
-      "SEC 953"
+      "Big 12 962"
     ]
   },
-  "9c50e3df-a38c-5c62-d45f-7665f89d2f06": {
-    "xmltvId": "SEC954.sxm",
-    "displayName": "Radio: SEC 954",
+  "0e3617ab-9b64-4215-de6a-66db75f0f2fe": {
+    "xmltvId": "ACC960.sxm",
+    "displayName": "Radio: ACC 960",
     "aliases": [
-      "SEC 954"
+      "ACC 960"
+    ]
+  },
+  "684cd9ac-0af0-2b2e-96dc-660d8cdb1520": {
+    "xmltvId": "ACC958.sxm",
+    "displayName": "Radio: ACC 958",
+    "aliases": [
+      "ACC 958"
+    ]
+  },
+  "02ef49c8-8145-d62a-f448-11da698d7fda": {
+    "xmltvId": "ACC959.sxm",
+    "displayName": "Radio: ACC 959",
+    "aliases": [
+      "ACC 959"
     ]
   },
   "8a53ab2f-e2bb-5f5f-bb74-b073f7a82647": {
@@ -2912,39 +2751,25 @@
       "Big Ten 957"
     ]
   },
-  "684cd9ac-0af0-2b2e-96dc-660d8cdb1520": {
-    "xmltvId": "ACC958.sxm",
-    "displayName": "Radio: ACC 958",
+  "8c9dc9b4-cd99-0eed-46e3-607caa75296c": {
+    "xmltvId": "SEC952.sxm",
+    "displayName": "Radio: SEC 952",
     "aliases": [
-      "ACC 958"
+      "SEC 952"
     ]
   },
-  "02ef49c8-8145-d62a-f448-11da698d7fda": {
-    "xmltvId": "ACC959.sxm",
-    "displayName": "Radio: ACC 959",
+  "d93c13f8-02fc-93ee-04b7-de929ff2d73f": {
+    "xmltvId": "SEC953.sxm",
+    "displayName": "Radio: SEC 953",
     "aliases": [
-      "ACC 959"
+      "SEC 953"
     ]
   },
-  "0e3617ab-9b64-4215-de6a-66db75f0f2fe": {
-    "xmltvId": "ACC960.sxm",
-    "displayName": "Radio: ACC 960",
+  "9c50e3df-a38c-5c62-d45f-7665f89d2f06": {
+    "xmltvId": "SEC954.sxm",
+    "displayName": "Radio: SEC 954",
     "aliases": [
-      "ACC 960"
-    ]
-  },
-  "c4212ffd-b8ea-e00b-abb7-7a78efd0e0a4": {
-    "xmltvId": "Big12961.sxm",
-    "displayName": "Radio: Big 12 961",
-    "aliases": [
-      "Big 12 961"
-    ]
-  },
-  "6c9062f6-d579-ca09-f6ac-c884e8c5e9b9": {
-    "xmltvId": "Big12962.sxm",
-    "displayName": "Radio: Big 12 962",
-    "aliases": [
-      "Big 12 962"
+      "SEC 954"
     ]
   },
   "5c10b4af-52aa-7d5e-bf1d-d64d3df39716": {
@@ -3836,13 +3661,6 @@
       "Country Coffee House"
     ]
   },
-  "c7842a6f-703b-446c-d8e7-b466005c62e9": {
-    "xmltvId": "CountryPride.sxm",
-    "displayName": "Radio: Country Pride",
-    "aliases": [
-      "Country Pride"
-    ]
-  },
   "a837a7fb-05c3-230c-77df-de442cd4f748": {
     "xmltvId": "CountrynChill.sxm",
     "displayName": "Radio: Country n Chill",
@@ -4466,13 +4284,6 @@
       "Octane Workout"
     ]
   },
-  "034c818c-d08b-d06d-2522-8490c38dfd78": {
-    "xmltvId": "OffGridRap.sxm",
-    "displayName": "Radio: Off Grid Rap",
-    "aliases": [
-      "Off Grid Rap"
-    ]
-  },
   "67441b3c-824d-f1e1-6ffe-425e8e0e8888": {
     "xmltvId": "OldiesParty.sxm",
     "displayName": "Radio: Oldies Party",
@@ -4786,13 +4597,6 @@
     "displayName": "Radio: Soccer Stadium",
     "aliases": [
       "Soccer Stadium"
-    ]
-  },
-  "25aff61b-1a75-29b4-153b-5637a625114f": {
-    "xmltvId": "SoftPower.sxm",
-    "displayName": "Radio: Soft Power",
-    "aliases": [
-      "Soft Power"
     ]
   },
   "9ac86521-ebce-5a24-4f8b-f158ad22b4b7": {
@@ -5131,13 +4935,6 @@
       "Yacht Rock Deep Cuts"
     ]
   },
-  "4d923bf9-5611-e52b-e932-7bf856239374": {
-    "xmltvId": "YachtRockJustMusic.sxm",
-    "displayName": "Radio: Yacht Rock Just Music",
-    "aliases": [
-      "Yacht Rock Just Music"
-    ]
-  },
   "1a8c7e32-a74d-20a9-9842-63fecb57f97c": {
     "xmltvId": "YachtSoul.sxm",
     "displayName": "Radio: Yacht Soul",
@@ -5157,6 +4954,202 @@
     "displayName": "Radio: Zen",
     "aliases": [
       "Zen"
+    ]
+  },
+  "c7842a6f-703b-446c-d8e7-b466005c62e9": {
+    "xmltvId": "CountryPride.sxm",
+    "displayName": "Radio: Country Pride",
+    "aliases": [
+      "Country Pride"
+    ]
+  },
+  "034c818c-d08b-d06d-2522-8490c38dfd78": {
+    "xmltvId": "OffGridRap.sxm",
+    "displayName": "Radio: Off Grid Rap",
+    "aliases": [
+      "Off Grid Rap"
+    ]
+  },
+  "25aff61b-1a75-29b4-153b-5637a625114f": {
+    "xmltvId": "SoftPower.sxm",
+    "displayName": "Radio: Soft Power",
+    "aliases": [
+      "Soft Power"
+    ]
+  },
+  "4d923bf9-5611-e52b-e932-7bf856239374": {
+    "xmltvId": "YachtRockJustMusic.sxm",
+    "displayName": "Radio: Yacht Rock Just Music",
+    "aliases": [
+      "Yacht Rock Just Music"
+    ]
+  },
+  "c5e4d875-9125-07fb-e87f-4edaab052b44": {
+    "xmltvId": "WFANNewYork.sxm",
+    "displayName": "Radio: WFAN New York",
+    "aliases": [
+      "WFAN New York"
+    ]
+  },
+  "9c2a3434-f10b-b354-e7c1-135af9efd879": {
+    "xmltvId": "KSPNLosAngeles.sxm",
+    "displayName": "Radio: KSPN Los Angeles",
+    "aliases": [
+      "KSPN Los Angeles"
+    ]
+  },
+  "abc1fbcc-e8bc-ec50-dd5d-36b084ca54b1": {
+    "xmltvId": "WSCRChicago.sxm",
+    "displayName": "Radio: WSCR Chicago",
+    "aliases": [
+      "WSCR Chicago"
+    ]
+  },
+  "6d31b1db-11f5-f6a9-cb60-bef429e89139": {
+    "xmltvId": "WEEIBoston.sxm",
+    "displayName": "Radio: WEEI Boston",
+    "aliases": [
+      "WEEI Boston"
+    ]
+  },
+  "e79128cb-acd1-1ce9-f856-8bd90940b994": {
+    "xmltvId": "WIPPhiladelphia.sxm",
+    "displayName": "Radio: WIP Philadelphia",
+    "aliases": [
+      "WIP Philadelphia"
+    ]
+  },
+  "157590c1-c759-8277-f057-fc0e2649a5ca": {
+    "xmltvId": "KRLDDallas.sxm",
+    "displayName": "Radio: KRLD Dallas",
+    "aliases": [
+      "KRLD Dallas"
+    ]
+  },
+  "fdfed5ae-6fb9-338f-342b-e8a922970123": {
+    "xmltvId": "SiriusXM144.sxm",
+    "displayName": "Radio: SiriusXM 144",
+    "aliases": [
+      "SiriusXM 144"
+    ]
+  },
+  "bb522a12-4956-c4bf-59b6-a4ba669a5916": {
+    "xmltvId": "KDKAPittsburgh.sxm",
+    "displayName": "Radio: KDKA Pittsburgh",
+    "aliases": [
+      "KDKA Pittsburgh"
+    ]
+  },
+  "e2ba824b-8743-57a3-99bf-f60bea95965a": {
+    "xmltvId": "WXYTDetroit.sxm",
+    "displayName": "Radio: WXYT Detroit",
+    "aliases": [
+      "WXYT Detroit"
+    ]
+  },
+  "1fc85074-193d-f14e-469a-c153961541d3": {
+    "xmltvId": "KGMZSanFrancisco.sxm",
+    "displayName": "Radio: KGMZ San Francisco",
+    "aliases": [
+      "KGMZ San Francisco"
+    ]
+  },
+  "38057f8d-509a-17ba-8e30-f6f3a84cc67b": {
+    "xmltvId": "WKRKCleveland.sxm",
+    "displayName": "Radio: WKRK Cleveland",
+    "aliases": [
+      "WKRK Cleveland"
+    ]
+  },
+  "00b966e9-b91b-addf-eaaa-76ef4d2e0a7e": {
+    "xmltvId": "KNXLosAngeles.sxm",
+    "displayName": "Radio: KNX Los Angeles",
+    "aliases": [
+      "KNX Los Angeles"
+    ]
+  },
+  "41ca3bfc-3946-a9e7-982c-d1b1660c8380": {
+    "xmltvId": "WGRBuffalo.sxm",
+    "displayName": "Radio: WGR Buffalo",
+    "aliases": [
+      "WGR Buffalo"
+    ]
+  },
+  "80b89bc9-2770-0fef-1079-7afbaf259d79": {
+    "xmltvId": "WZGCAtlanta.sxm",
+    "displayName": "Radio: WZGC Atlanta",
+    "aliases": [
+      "WZGC Atlanta"
+    ]
+  },
+  "b2e5e9b8-0235-4020-cccf-996d6d72696b": {
+    "xmltvId": "WJZBaltimore.sxm",
+    "displayName": "Radio: WJZ Baltimore",
+    "aliases": [
+      "WJZ Baltimore"
+    ]
+  },
+  "4e633c2d-37f6-8d34-0116-e93579fca392": {
+    "xmltvId": "KILTHouston.sxm",
+    "displayName": "Radio: KILT Houston",
+    "aliases": [
+      "KILT Houston"
+    ]
+  },
+  "f7de64fa-bd6c-46c5-c54a-254ef2343319": {
+    "xmltvId": "KFNZKansasCity.sxm",
+    "displayName": "Radio: KFNZ Kansas City",
+    "aliases": [
+      "KFNZ Kansas City"
+    ]
+  },
+  "42453ab1-a303-1d93-9530-1301feb4fb75": {
+    "xmltvId": "WMFSMemphis.sxm",
+    "displayName": "Radio: WMFS Memphis",
+    "aliases": [
+      "WMFS Memphis"
+    ]
+  },
+  "61042da7-52dd-d4d0-4c63-199731faccec": {
+    "xmltvId": "WQAMMiami.sxm",
+    "displayName": "Radio: WQAM Miami",
+    "aliases": [
+      "WQAM Miami"
+    ]
+  },
+  "4343cd94-95ab-87b8-a237-667d8ef6f3c9": {
+    "xmltvId": "WSSPMilwaukee.sxm",
+    "displayName": "Radio: WSSP Milwaukee",
+    "aliases": [
+      "WSSP Milwaukee"
+    ]
+  },
+  "ab13e6e2-a08c-4877-4134-322ca5eba7a3": {
+    "xmltvId": "KRSKPortland.sxm",
+    "displayName": "Radio: KRSK Portland",
+    "aliases": [
+      "KRSK Portland"
+    ]
+  },
+  "78a02a27-2c20-ded8-601f-8c4257c7e2b8": {
+    "xmltvId": "KIFMSacramento.sxm",
+    "displayName": "Radio: KIFM Sacramento",
+    "aliases": [
+      "KIFM Sacramento"
+    ]
+  },
+  "ea654aba-136a-58d5-553b-f4a8bf46597d": {
+    "xmltvId": "KWFNSanDiego.sxm",
+    "displayName": "Radio: KWFN San Diego",
+    "aliases": [
+      "KWFN San Diego"
+    ]
+  },
+  "fcd95f42-4c13-9b10-02f7-b0fa883e29b6": {
+    "xmltvId": "WTEMWashingtonDC.sxm",
+    "displayName": "Radio: WTEM Washington DC",
+    "aliases": [
+      "WTEM Washington DC"
     ]
   },
   "b66e4678-7b6e-9d33-5277-f4578b0caef9": {
