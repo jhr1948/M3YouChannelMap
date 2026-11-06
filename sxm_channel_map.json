@@ -715,9 +715,10 @@
     ]
   },
   "ab0e4302-503b-e1ff-c786-8307a3d36fe0": {
-    "xmltvId": "SiriusXM145.sxm",
-    "displayName": "Radio: SiriusXM 145",
+    "xmltvId": "FallonHolidaySeasoning.sxm",
+    "displayName": "Radio: Fallon Holiday Seasoning",
     "aliases": [
+      "Fallon Holiday Seasoning",
       "SiriusXM 145"
     ]
   },
@@ -1148,13 +1149,6 @@
       "SiriusXM INDYCAR Nation"
     ]
   },
-  "b8c4de96-afd9-85ee-7e5f-95c2e380ab65": {
-    "xmltvId": "ScreamRadio.sxm",
-    "displayName": "Radio: Scream Radio",
-    "aliases": [
-      "Scream Radio"
-    ]
-  },
   "c3890f3c-1222-5036-bea9-6d52753bf018": {
     "xmltvId": "RoadTripRadio.sxm",
     "displayName": "Radio: Road Trip Radio",
@@ -1345,9 +1339,10 @@
     ]
   },
   "4a121e6f-9d04-d2bb-763f-2b9119a5d281": {
-    "xmltvId": "TalkingHeadsRadio.sxm",
-    "displayName": "Radio: Talking Heads Radio",
+    "xmltvId": "LimitedEdition5.sxm",
+    "displayName": "Radio: Limited Edition 5",
     "aliases": [
+      "Limited Edition 5",
       "Talking Heads Radio"
     ]
   },
@@ -1373,9 +1368,10 @@
     ]
   },
   "78239fb8-a9cb-fc9e-4244-2cef6c2527c9": {
-    "xmltvId": "LimitedEdition9.sxm",
-    "displayName": "Radio: Limited Edition 9",
+    "xmltvId": "TheWuTangClanChannel.sxm",
+    "displayName": "Radio: The Wu-Tang Clan Channel",
     "aliases": [
+      "The Wu-Tang Clan Channel",
       "Limited Edition 9"
     ]
   },
@@ -5026,13 +5022,6 @@
       "KRLD Dallas"
     ]
   },
-  "fdfed5ae-6fb9-338f-342b-e8a922970123": {
-    "xmltvId": "SiriusXM144.sxm",
-    "displayName": "Radio: SiriusXM 144",
-    "aliases": [
-      "SiriusXM 144"
-    ]
-  },
   "bb522a12-4956-c4bf-59b6-a4ba669a5916": {
     "xmltvId": "KDKAPittsburgh.sxm",
     "displayName": "Radio: KDKA Pittsburgh",
@@ -5164,6 +5153,160 @@
     "displayName": "Radio: INNERRHYTHM Radio",
     "aliases": [
       "INNERRHYTHM Radio"
+    ]
+  },
+  "ba107a8d-fb2d-571e-1894-f6ea03ed318a": {
+    "xmltvId": "Holly.sxm",
+    "displayName": "Radio: Holly",
+    "aliases": [
+      "Holly"
+    ]
+  },
+  "acf8556b-03f4-e739-554f-464d50ba738d": {
+    "xmltvId": "HallmarkRadio.sxm",
+    "displayName": "Radio: Hallmark Radio",
+    "aliases": [
+      "Hallmark Radio"
+    ]
+  },
+  "71dbb5a0-8995-958b-e139-b63b2864cabb": {
+    "xmltvId": "CountryChristmas.sxm",
+    "displayName": "Radio: Country Christmas",
+    "aliases": [
+      "Country Christmas"
+    ]
+  },
+  "b529697a-7923-3f82-5cf6-af9b95f837b4": {
+    "xmltvId": "JollyChristmas.sxm",
+    "displayName": "Radio: Jolly Christmas",
+    "aliases": [
+      "Jolly Christmas"
+    ]
+  },
+  "52832987-456a-28a1-f52e-92c03847ea7a": {
+    "xmltvId": "ChristmasSpirit.sxm",
+    "displayName": "Radio: Christmas Spirit",
+    "aliases": [
+      "Christmas Spirit"
+    ]
+  },
+  "1809a154-5d8c-344d-14e8-fa6171dc1c46": {
+    "xmltvId": "SmokeysHolidaySoul.sxm",
+    "displayName": "Radio: Smokey's Holiday Soul",
+    "aliases": [
+      "Smokey's Holiday Soul"
+    ]
+  },
+  "164e2592-cbd8-900c-6201-2fe759db6211": {
+    "xmltvId": "MannheimSteamroller.sxm",
+    "displayName": "Radio: Mannheim Steamroller",
+    "aliases": [
+      "Mannheim Steamroller"
+    ]
+  },
+  "799b6a46-163c-1f97-4d0c-5454b5c1842b": {
+    "xmltvId": "TransSiberianOrchRadio.sxm",
+    "displayName": "Radio: Trans-SiberianOrchRadio",
+    "aliases": [
+      "Trans-SiberianOrchRadio"
+    ]
+  },
+  "7bd88d44-6398-8733-a7a7-3858468c55a8": {
+    "xmltvId": "HolidayPops.sxm",
+    "displayName": "Radio: Holiday Pops",
+    "aliases": [
+      "Holiday Pops"
+    ]
+  },
+  "a05129e3-a5d2-2b5f-63ce-1986cddbb452": {
+    "xmltvId": "Navidad.sxm",
+    "displayName": "Radio: Navidad",
+    "aliases": [
+      "Navidad"
+    ]
+  },
+  "c1763aa8-6534-2e12-acdf-2185f3b59fe8": {
+    "xmltvId": "NoelIncontournable.sxm",
+    "displayName": "Radio: Noël Incontournable",
+    "aliases": [
+      "Noël Incontournable"
+    ]
+  },
+  "c4c5ce5c-0fd3-1df6-17c6-99a91831d183": {
+    "xmltvId": "70s80sHolidays.sxm",
+    "displayName": "Radio: 70s/80s Holidays",
+    "aliases": [
+      "70s/80s Holidays"
+    ]
+  },
+  "880f15bd-4d22-2d77-a4f4-8f800c305e1b": {
+    "xmltvId": "AcousticChristmas.sxm",
+    "displayName": "Radio: Acoustic Christmas",
+    "aliases": [
+      "Acoustic Christmas"
+    ]
+  },
+  "73bc4275-2d32-8593-9670-2fc95337a1d4": {
+    "xmltvId": "CoolJazzChristmas.sxm",
+    "displayName": "Radio: Cool Jazz Christmas",
+    "aliases": [
+      "Cool Jazz Christmas"
+    ]
+  },
+  "298527c5-6c53-c1bb-3c55-a7763db52cf6": {
+    "xmltvId": "HolidayChillOut.sxm",
+    "displayName": "Radio: Holiday Chill-Out",
+    "aliases": [
+      "Holiday Chill-Out"
+    ]
+  },
+  "df8ba005-0912-e537-4f86-52d3e57c6678": {
+    "xmltvId": "HolidayInstrumentals.sxm",
+    "displayName": "Radio: Holiday Instrumentals",
+    "aliases": [
+      "Holiday Instrumentals"
+    ]
+  },
+  "d3c4bc59-531d-bb7a-1ffa-826f98fab863": {
+    "xmltvId": "JingleJamz.sxm",
+    "displayName": "Radio: Jingle Jamz",
+    "aliases": [
+      "Jingle Jamz"
+    ]
+  },
+  "62a54063-b231-410a-db04-755a654228be": {
+    "xmltvId": "KidsChristmas.sxm",
+    "displayName": "Radio: Kids Christmas",
+    "aliases": [
+      "Kids Christmas"
+    ]
+  },
+  "a4207021-2829-c584-0d1f-23d035d53897": {
+    "xmltvId": "RealJazzHoliday.sxm",
+    "displayName": "Radio: Real Jazz Holiday",
+    "aliases": [
+      "Real Jazz Holiday"
+    ]
+  },
+  "0b6a6389-9d4e-b70c-fca4-1a5fc70b456a": {
+    "xmltvId": "RockinXmas.sxm",
+    "displayName": "Radio: Rockin' Xmas",
+    "aliases": [
+      "Rockin' Xmas"
+    ]
+  },
+  "53dd4ddb-2626-5cec-0ec4-36bea42a73a2": {
+    "xmltvId": "SleepChristmas.sxm",
+    "displayName": "Radio: Sleep Christmas",
+    "aliases": [
+      "Sleep Christmas"
+    ]
+  },
+  "d44dff6d-e83a-e77f-ea51-86d1da4f14f2": {
+    "xmltvId": "Wintering.sxm",
+    "displayName": "Radio: Wintering",
+    "aliases": [
+      "Wintering"
     ]
   }
 }
